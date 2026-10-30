@@ -1,0 +1,16 @@
+.build/
+build/
+.swiftpm/
+DerivedData/
+.DS_Store
+*.xcuserstate
+xcuserdata/
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+history.json
+*.log
+.publish/
